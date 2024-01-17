@@ -37,7 +37,11 @@ Your workflow will look like this:
 
 > SEED = 123456789
 
-9. Run the script with your en_US.lang file in the same directory. Verify the Behavior and Resource directories are created. In this example they will be:
+9. Run the script with your en_US.lang file in the same directory.
+
+> python .\addon_gen_v1.py
+
+10. Verify the Behavior and Resource directories are created. In this example they will be:
 
 > AddOnGen_Test_RP
 
