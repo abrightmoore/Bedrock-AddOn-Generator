@@ -3,6 +3,9 @@ Creates stub Resource and Behavior packs from an en_US.lang file for Minecraft B
 
 Tested with Minecraft 1.20.51
 
+![Ingame view of placing generated Blocks and Entities](https://github.com/abrightmoore/Bedrock-AddOn-Generator/blob/main/2024018a_addongena.gif?raw=true)
+
+
 ## Why do this?
 This script creates a working Add-On pair of Resource and Behavior folders. You can then modify the blocks, entities, items and recipes to suit your project.
 
