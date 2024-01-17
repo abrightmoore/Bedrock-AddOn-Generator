@@ -49,6 +49,8 @@ Your workflow will look like this:
 
 10. Copy the generated BP and RP folders into your development_behavior_packs and development_resource_packs folders
 11. Create a new Creative world in Minecraft, and add the generated BP to it. The RP should automatically activate.
+12. Finally, you take over. Use tools to modify or replace blocks, items, entities and recipes that have been generated or simply replace the default textures with ones that you design.
+
 
 NOTE: identifiers and keys should always be lowercase.
 NOTE: every entity gets a spawn egg.
@@ -58,3 +60,7 @@ NOTE: every entity gets a spawn egg.
 Discord: https://discord.gg/h62NN5R
 
 DevLog: https://peoplemaking.games/@TheWorldFoundry/111762017474772111
+
+Consider using BlockBench to develop each individual asset, add animations, and behaviors: https://www.blockbench.net/
+
+Consider using Bridge IDE to manage changes to the pack: https://bridge-core.app/
