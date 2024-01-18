@@ -22,6 +22,7 @@ Your workflow will look like this:
 3. Create an en_US.lang file with the following keys. You can change the values to suit your project:
 
 > pack.name=AddOnGen Test
+
 > pack.description=Add-On pack stub generation by The World Foundry (@TheWorldFoundry)
 
 4. Add blocks to your en_US.lang using this syntax. This example adds a block with an identifier "twf:eyetwoframes". The important part is the "tile." at the start and the ".name=" at the end of the key:
